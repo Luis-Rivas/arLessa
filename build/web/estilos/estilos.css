@@ -1,0 +1,19 @@
+.contenedor{
+    width:70%;
+    margin-left:15%;
+    margin-right:15%;
+    margin-top:2%;
+    text-align: center;
+    justify-content:center;
+    border:activecaption;
+    border-style:outset;
+    background-color:white;
+}
+.caja{
+    width:40%;
+    margin-left: 10%;
+    margin-right: 5%;
+    margin-bottom:4rem;
+    display: inline-block;
+}
+
